@@ -8,21 +8,30 @@
 
 [GITbooK分支](https://github.com/xianyunyh/PHP-Interview/tree/gitbook)
 
-- [Linux](Linux/REAMDE.md)
+- [Linux](https://github.com/lidawei-ufo/PHP/blob/master/Linux/REAMDE.md)
 
-  - [Linux基本命令](https://github.com/xianyunyh/PHP-Interview/blob/master/Linux/Linux%E5%91%BD%E4%BB%A4.md)
-  - [Crontab](Linux/crontab.md)
-  - [Shell](Linux/shell.md)
-  - [Linux-Inode介绍](Linux/inode.md)
-  - [VIM编辑器](Linux/Vim.md)
-  - [Lnmp/Lamp](Linux/lanmp.md)
-  - [LinuxIO模型.md](Linux/LinuxIO模型.md)
+  - [Linux基本命令](https://github.com/lidawei-ufo/PHP/blob/master/Linux/Linux%E5%91%BD%E4%BB%A4.md)
+  - [Crontab](https://github.com/lidawei-ufo/PHP/blob/master/Linux/crontab.md)
+  - [Shell](https://github.com/lidawei-ufo/PHP/blob/master/Linux/shell.md)
+  - [Linux-Inode介绍](https://github.com/lidawei-ufo/PHP/blob/master/Linux/inode.md)
+  - [VIM编辑器](https://github.com/lidawei-ufo/PHP/blob/master/Linux/Vim.md)
+  - [Lnmp/Lamp](https://github.com/lidawei-ufo/PHP/blob/master/Linux/lanmp.md)
+  - [LinuxIO模型.md](https://github.com/lidawei-ufo/PHP/blob/master/Linux/LinuxIO%E6%A8%A1%E5%9E%8B.md)
+  -[进程和线程](https://github.com/lidawei-ufo/PHP/blob/master/Linux/%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B.md)
 
-- [数据库](Mysql/README.md)
+- [数据库](https://github.com/lidawei-ufo/PHP/blob/master/Mysql/README.md)
+-[mysqlyou优化](https://github.com/lidawei-ufo/PHP/blob/master/Mysql/MySQL%E7%B4%A2%E5%BC%95%E5%8E%9F%E7%90%86%E5%8F%8A%E6%85%A2%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96.md)
+-[mysql三范式](https://github.com/lidawei-ufo/PHP/blob/master/Mysql/MySQL%E4%B8%89%E8%8C%83%E5%BC%8F.md)
+-[mysql索引原理及慢查询优化](https://github.com/lidawei-ufo/PHP/blob/master/Mysql/MySQL%E7%B4%A2%E5%BC%95%E5%8E%9F%E7%90%86%E5%8F%8A%E6%85%A2%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96.md)
+-[sql标准](https://github.com/lidawei-ufo/PHP/blob/master/Mysql/SQL%E6%A0%87%E5%87%86.md)
+-[explain](https://github.com/lidawei-ufo/PHP/blob/master/Mysql/explain.md)
+-[事务](https://github.com/lidawei-ufo/PHP/blob/master/Mysql/%E4%BA%8B%E5%8A%A1.md)
+-[存储引擎](https://github.com/lidawei-ufo/PHP/blob/master/Mysql/%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E.md)
+-[索引](https://github.com/lidawei-ufo/PHP/blob/master/Mysql/%E7%B4%A2%E5%BC%95.md)
 
-  - [MySQL](Mysql/README.md)
+  - [MySQL](https://github.com/lidawei-ufo/PHP/blob/master/Mysql/README.md)
 
-  - [Mongodb](MongoDb/MongoDB.md)
+  - [Mongodb](https://github.com/lidawei-ufo/PHP/blob/master/MongoDb/MongoDB.md)
 
 - [计算机网络](计算机网络/README.md)
 
